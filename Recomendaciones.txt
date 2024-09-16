@@ -1,0 +1,3 @@
+Para ejecutar archivos .sh debes ejecutar el siguiente comando para otorgar permisos:
+
+chmod 777 nombre_del_archivo.sh
